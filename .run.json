@@ -1,4 +1,6 @@
 {
   "setup": "",
-  "run": "&& serve . -l $PORT"
+  "run": "&& serve . -l $PORT",
+  "title": "Board Description Language Demo",
+  "subtitle": "Board description language output example"
 }
