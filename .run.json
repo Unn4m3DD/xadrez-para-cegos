@@ -3,5 +3,5 @@
   "run": "&& serve . -l $PORT",
   "title": "Board Description Language Demo",
   "subtitle": "Board description language output example",
-  "image": "https://raw.githubusercontent.com/Unn4m3DD/xadrez-para-cegos/master/demo.gif"
+  "video": "https://raw.githubusercontent.com/Unn4m3DD/xadrez-para-cegos/master/demo.mp4"
 }
